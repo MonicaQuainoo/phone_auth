@@ -80,7 +80,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
                     });
                   },
                   decoration: InputDecoration(
-                    hintText: "Enter phone number",
                     hintStyle: TextStyle(
                       fontWeight: FontWeight.w500,
                       fontSize: 15,
